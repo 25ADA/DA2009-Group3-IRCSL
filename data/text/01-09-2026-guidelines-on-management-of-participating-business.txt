@@ -1,0 +1,388 @@
+Guidelines on management of participating business
+Introduction
+1.1 The proposed guidelines underlying this note are applicable to long-term insurers only (thereafter
+referred as insurers).
+1.2 At present, there are no established regulations, guidelines or a dedicated framework in Sri Lanka
+governing the oversight and management of participating insurance business. This document sets
+out the proposed principles and governance framework that insurers shall consider when
+formulating their Board-approved bonus policy and in overall management of participating business.
+The policy shall also govern the determination of bonus rates declared to policyholders as well as
+future bonus assumptions required in insurance liability and solvency assessments as per Solvency
+Margin (Risk Based Capital) Rules 2015.
+Governance framework
+1.3 Every insurer shall establish a well-defined governance structure for the effective management and
+oversight of its participating business.
+1.4 The ultimate accountability for the management and governance of the participating fund shall
+reside with the Board of Directors. To support the Board in fulfilling this responsibility, the insurer
+shall establish a Participating Fund Management Committee tasked with providing oversight and
+recommendations on the governance, operations, and fair treatment of policyholders within the
+participating fund.
+1.5 The Participating Fund Management Committee shall, at a minimum, comprise the Chief Executive
+Officer, Chief Financial Officer, the Appointed Actuary, the Head of Actuarial, Specified Officer and
+at least one non-executive independent member of the Board of Directors. The insurer may appoint
+additional members as deemed necessary to ensure effective and balanced oversight of the
+participating fund.
+1.6 There should be a clear definition of the roles and responsibilities of all parties involved in the
+management of participating business:
+a. The Board of Directors shall:
+• review and approve the bonus policy for the insurer’s management of its participating life
+business, consistent with the guidelines outlined in this note;
+• review and approve bonus rates annually;
+• provide adequate oversight on the implementation of the bonus policy to ensure that the
+insurer’s practices are aligned with the bonus policy; and
+• approve any changes to the policy, as well as the circumstances which may result in such
+changes.
+b. The responsibilities of the Participating Fund Management Committee (the Committee)
+shall include, at a minimum, the following:
+• to assess, report on, and provide clear advice and, where appropriate, formal
+recommendations to the Board of Directors regarding the management, performance and
+operation of the participating fund;
+• to assess and review all policyholder communications as part of the product approval
+process, and to review the sales process — including distributor training — to ensure that
+Guidelines on management of participating business Page 1 of 10
+these are transparent, relevant and not creating undue Policyholder Reasonable
+Expectations (PRE).
+• to assess the recommended bonus rates against calculated asset shares, including analysis
+of the financial impact of such rates on the liability and capital position;
+• to evaluate whether the insurer’s decisions adequately reflect the interests of participating
+policyholders, including the identification and assessment of policyholders’ reasonable
+expectations, and the determination and allocation of discretionary benefits in a fair and
+equitable manner across homogeneous policyholder groups;
+• to consider and advise on the insurer’s approach to managing potential conflicts of interest
+between participating policyholders and other stakeholders;
+• to ensure that participating fund is managed in accordance with the policies outlined as part
+of the bonus policy and deviations from this policy, if any, shall be documented and reported
+to the Board of Directors;
+• to assess the use of the estate by the insurer and provide an opinion on the reasonability
+of the same;
+• to ensure that future participating bonus assumptions used by the insurer of liability and
+solvency assessments or for any other internal assessments, are aligned to the bonus
+policy; and
+• to review and advise on any other matters necessary to ensure that the interests of
+participating policyholders are appropriately protected and incorporated within the insurer’s
+broader governance and risk management framework.
+c. Insurers shall designate an appropriately qualified and responsible person to oversee the
+following functions:
+• calculate asset shares including the derivation of underlying assumptions and data used for
+the calculation and projection of asset share;
+• recommend bonus rates including the financial impact of such rates on the liability and
+capital position;
+• perform additional analysis to assess the supportability of bonus rates including any
+sensitivity analysis;
+• reasonableness checks to ensure the accuracy, consistency, and completeness of the data
+used and documenting any qualification / limitation relating to the data;
+• ensure that the future bonus rate assumption proposed takes into consideration relevant
+factors as used to propose bonus rates declared for the year.
+• ensure that any liability assessment due to cost of guarantees associated with participating
+business are included in calculation of insurance liabilities.
+Grouping
+1.7 Insurers shall establish appropriate groupings of participating policies for the purpose of bonus
+determination, including terminal bonuses. Groupings may be based on product features, guarantee
+levels, policy issue date, terms, risk characteristics, and premium payment mode (e.g., single vs.
+regular premium).
+1.8 Insurers should ensure that no group of policyholders is materially disadvantaged relative to others,
+maintaining fairness and consistency in surplus distribution at the same time taking benefit of
+pooling of risks.
+1.9 Insurers shall maintain and calculate separate asset shares for each defined policy grouping,
+reflecting each group’s specific experience and supporting fair surplus distribution.
+Guidelines on management of participating business Page 2 of 10
+1.10 While equitable treatment is required, insurers shall consider practical constraints associated with
+overly granular grouping, such as administrative inefficiency or limited credibility of experience data.
+Asset Share calculation
+1.11 The insurer shall calculate asset shares for each policy grouping, which shall serve as a key
+reference in the following areas:
+a. determination of appropriate levels of reversionary and terminal bonuses (if applicable);
+b. assessment of the fairness and reasonableness of surrender, maturity, and death benefits
+payable to policyholders;
+c. evaluation of policyholders’ reasonable expectations (PRE) and to support the fair treatment of
+customers; and
+d. assessment of the impact of smoothing mechanisms on benefit payouts across different
+policyholder cohorts and generations.
+1.12 The ratio of asset shares to surrender or maturity value shall fall within a predefined, justifiable
+range for each policy grouping, subject to meeting at least the guaranteed benefits. This approach
+supports the fair treatment of policyholders and helps to maintain consistency and equity in benefit
+payouts across different cohorts. Any deviation from the prescribed ratio shall be documented and
+justified by the Committee.
+1.13 An asset share represents the notional accumulation of a policyholder’s contributions to the
+participating fund over time. It is calculated as:
+(+) the total of premiums received,
+(+) allocated investment returns,
+(-) deductions for benefit payments,
+(-) commissions, where commissions charged should be in line with the Determination 10
+(-) expenses,
+(-) taxes,
+(-) allowance for the cost of capital
+(-) allowance for cost of guarantees,
+(-) any transfers to shareholders.
+(+) Adjustments may also be made to reflect miscellaneous surplus allocations where
+appropriate, with proper documentation.
+1.14 Accordingly, the insurer shall identify, quantify, and document all sources of surplus and deficit that
+contribute to the calculation of asset shares. The insurer shall also clearly define whether such
+amounts are to be distributed to policyholders—across different generations—or retained within the
+inherited estate, ensuring transparency and alignment with policyholder interests.
+1.15 Miscellaneous surplus, including profits from surrenders, shall be evaluated to determine whether
+it forms part of the asset share or remains within the estate, and should be documented as part of
+this policy.
+1.16 The methodology for calculating and using asset shares shall be fair, appropriate, and applied
+consistently year-on-year. The insurer shall maintain full documentation of the rationale,
+assumptions, and methodology used, aligned with internal and regulatory standards.
+Guidelines on management of participating business Page 3 of 10
+1.17 Asset Shares at year-end shall generally be determined by rolling forward the prior year’s asset
+share, incorporating relevant cash flows, returns, and deductions during the year.
+1.18 The Committee shall regularly review and, where appropriate, enhance the methodology used to
+determine asset shares across policy groupings. This is to ensure continued robustness,
+transparency, and fairness in surplus distribution and to uphold equitable treatment of all
+participating policyholders.
+Considerations of Asset Share management
+1.19 In determining bonus rates for participating policyholders, the insurer shall give due consideration
+to the experience of the participating fund and ensure fairness, equity, and consistency across
+policyholder groups.
+Assumptions
+1.20 The insurer shall use historical data, including actual policy-level and fund-level cash flows, to derive
+asset shares up to the current valuation date.
+1.21 Where complete data is not readily available, the insurer shall apply reasonable approximations
+and sound actuarial judgement, with underlying approach and associated limitations clearly
+documented and justified.
+1.22 In projecting asset shares beyond the valuation date, the insurer shall adopt appropriate and
+supportable assumptions, consistent with the participating fund’s expected experience and aligned
+with the principles of fairness and prudence.
+1.23 All assumptions underlying calculation and projection of asset share should be clearly documented.
+Expenses
+1.24 Expense allocations should happen by way of a Board approved expense allocation policy
+1.25 The Board approved expense allocation policy shall be reviewed at least once annually.
+1.26 The expense charging approach shall aim to ensure fairness between shareholders and
+policyholders, as well as across policyholder groupings.
+1.27 The insurer shall ensure that all deductions made to asset shares, including expenses, are
+reasonable and have been, or will be, incurred in the ongoing management of that participating life
+fund.
+1.28 Insurers shall be able to justify any costs allocated to an applicable participating fund, based on
+appropriate analysis with proper documentation that demonstrates the expected benefit to the
+relevant policy holders in incurring such costs.
+1.29 The insurer shall not allocate to the participating fund any cost that comprises, directly or indirectly,
+any of the following:
+a. fines or penalties imposed by the court, a regulatory authority or a law enforcement agency;
+b. costs incurred for corporate restructuring including mergers and acquisitions, demerger,
+changes involving shareholding structure and management buyout, but excluding internal
+reorganization of the insurer’s processes;
+c. expense overruns arising from operational inefficiencies, management actions, or short-term
+volatility in actual expenses. Such overruns shall be borne by shareholders.
+d. costs incurred for marketing other than participating products;
+Guidelines on management of participating business Page 4 of 10
+e. costs of promotional gifts issued to distribution channels must be borne by the shareholders’
+fund and must not be charged to the participating life fund.
+f. expenses or charges incurred in relation to activities in breach of any regulatory requirements,
+including payments to a skilled person to produce a report required by a regulatory authority, if
+the report indicates that the insurer has, or may have, failed to satisfy its regulatory obligations;
+and
+g. payments of compensation or redress due to policy holders for any act or omission for which
+the insurer should be responsible. Such compensation shall also include actions to meet any
+undue PRE that have been formed, including but not limited to, due to inappropriate
+management of the participating life fund.
+Investment returns and Investment strategy
+1.30 Insurers shall maintain comprehensive documentation of the methodology used to determine the
+historic investment returns credited to asset shares for different cohorts / groupings. This shall
+include the calculation approach, the basis for selecting the investment return rates (e.g. market
+returns or amortised returns), and the policy regarding the smoothing of returns credited to asset
+share.
+1.31 Insurers shall also document the methodology, rationale and underlying investment return
+assumption used to project asset shares for different cohorts/groupings. The assumption shall be
+aligned to the investment strategy of the insurer.
+1.32 Any residual return shall be credited to the estate.
+1.33 The investment strategy chosen for participating funds shall ensure that both the insurer as a whole
+and the participating fund remain solvent under all reasonably foreseeable circumstances.
+1.34 The investment strategy should also be compliant with any statutory limits and regulatory
+requirements specified as part of Determination 1.
+Taxation
+1.35 In calculation of asset share, insurers shall clearly define and document the methodology adopted
+for the adjustment for taxation payable on policyholder and shareholder surplus distribution.
+1.36 The documentation shall include the underlying rationale for the chosen approach and reference to
+the relevant tax returns or filings submitted to the appropriate tax authorities that support and
+validate the adopted treatment.
+Considerations of bonus determination
+Asset share
+1.37 The insurer shall determine asset shares in accordance with the methodology and considerations
+set out in the preceding sections. This determination shall include the calculation of asset share as
+at the date of the bonus investigation, as well as the projection of such asset shares through to
+policy maturity.
+Smoothing
+1.38 Insurers shall implement a clearly defined and consistently applied smoothing policy for participating
+business to reduce short-term volatility in benefit payouts and support policyholders' reasonable
+expectations. The smoothing mechanism shall ensure fairness across different policyholder
+cohorts, reflect the underlying performance of the participating fund, and maintain transparency and
+consistency over time.
+Guidelines on management of participating business Page 5 of 10
+1.39 The insurer shall:
+a. Prevent undue advantage or disadvantage to any policyholder group;
+b. Maintain proper documentation and governance oversight for all smoothing-related decisions;
+and
+c. Periodically review and disclose the impact of smoothing through internal reporting by tracking
+the difference between asset shares with and without smoothing.
+Allowance of business risks
+1.40 The participating fund is subject to a range of business risks beyond investment-related risks,
+including but not limited to mortality, longevity, morbidity, persistency, operational issues, product
+design, competitive pressures, regulatory and fiscal changes, and broader geopolitical
+developments. The insurer shall ensure that bonus determination allows for such risks and any
+other risks that may be identified as part of the Risk Assessment Report and ensure safeguarding
+the long-term solvency and sustainability of the participating fund.
+Policyholders’ reasonable expectations (PRE)
+1.41 Policyholders’ reasonable expectations concern the policy owners’ expectations on how the non-
+guaranteed benefits of their participating life policies are managed and paid.
+1.42 The Committee shall articulate sources which create PRE. PRE might get built up based on past
+declarations of reversionary bonuses, past communication with the policyholders, marketing
+material, benefit illustrations presented at the time of sale of policy or at later stages in the lifetime
+of a policy, and prevailing industry practices.
+1.43 In managing Policyholders’ Reasonable Expectations (PRE), the insurer shall:
+a. actively manage bonus rates in line with the level of participating life fund returns to avoid the
+creation of undue PRE regarding the level of bonus rates;
+b. Communicate clearly to policyholders the non-guaranteed nature of discretionary bonuses and
+the circumstances under which such bonuses may be revised, reduced, or withdrawn; and
+c. Ensure that all communications, whether through direct channels, intermediaries, marketing
+materials, or historical bonus practices — are accurate, not misleading, and do not give rise to
+the impression that bonuses are fixed or guaranteed, to protect the integrity of policyholder
+expectations.
+1.44 When making bonus recommendations, if the Committee concludes that undue Policyholder
+Reasonable Expectations (PRE) have been established, the insurer shall treat the portion of benefit
+payouts linked to such undue PRE as guaranteed benefits and make appropriate reserves
+accordingly.
+1.45 The insurer shall also consider the guideline on principles on fair treatment of customers as issued
+by IRCSL from time to time while setting up bonus rates.
+Treatment of inherited estate
+1.46 The insurer shall ensure that the inherited estate is managed and ultimately distributed in a fair,
+transparent, and equitable manner between shareholders and participating policyholders. Allocation
+shall also be fair across different generations of policyholders, in line with their reasonable
+expectations.
+1.47 The run-off of the inherited estate shall be aligned with the run-off profile of the in-force participating
+policies, such that the estate is fully distributed by the time the last participating policy terminates.
+Guidelines on management of participating business Page 6 of 10
+a. Where the insurer intends to continue writing new participating business, the inherited estate
+may be used to support the capital strain associated with new business issuance.
+b. Where no further participating business is to be written, the insurer shall develop and document
+a formal plan detailing the approach, governance, and timeline for distributing the estate to
+different generations of participating policyholders.
+1.48 Notwithstanding the planned utilisation and distribution of the inherited estate, the insurer shall
+ensure that an adequate level of estate is retained at all times to meet internal capital objectives
+and solvency requirements. The insurer shall define appropriate minimum and maximum limits
+regarding internal solvency targets and establish clearly articulated governance procedures,
+including corrective actions to be taken in the event of breaches of these limits.
+1.49 Consideration should also be given to the impact of writing new business on existing policyholders
+to ensure that they are not expected to be disadvantaged.
+1.50 The Committee shall ensure that the estate is managed prudently and in a manner that does not
+disadvantage policyholders. If any disadvantage to policyholders does arise due to the management
+of the estate, the cost of such disadvantage shall be borne by the shareholders.
+Surrender value
+1.51 The insurer shall ensure that surrendering policyholders are treated fairly, with surrender values
+that are, as far as practicable, aligned with their corresponding asset shares. This approach helps
+to maintain equity between surrendering and continuing policyholders, ensuring that the latter
+neither subsidise nor are disadvantaged by early exits from the participating fund.
+Calculation of insurance liabilities
+1.52 The future bonus assumption used to determine insurance liabilities shall be based on the bonus
+policy and included as part of the bonus recommendation provided to the Committee.
+1.53 The insurer shall evaluate the cost of guarantees using an appropriate and justifiable methodology.
+This cost shall be incorporated into the asset share analysis and included in insurance liabilities for
+participating business, calculated as per Solvency Margin (Risk Based Capital) Rules, 2015. The
+underlying assumptions, methodologies, and results shall be comprehensively documented as part
+of the report submitted to the Committee.
+Regular policyholder statements
+1.54 Insurers shall, at least annually, issue annual bonus statements to each participating policyholder
+which shall contain:
+a. the status of the participating life policy;
+b. any bonus declared for the current year;
+c. the sum assured, the vested bonus including the total accumulated reversionary bonus, and
+other vested non-guaranteed benefits as at the date of the statement;
+d. any bonus or other non-guaranteed benefit which has vested since the date of the last
+statement;
+e. the guaranteed cash value; and
+f. any other information relevant to the participating policyholders.
+1.55 The proposed format for the annual policyholder statements has been provided as part of Annexure
+A of this guideline.
+Guidelines on management of participating business Page 7 of 10
+Documentation
+1.56 The insurer shall ensure that all key decisions, assessments, and actions relating to the
+management of the participating fund, including those concerning the inherited estate, are properly
+documented. Such documentation shall be made available to the Board of Directors and submitted
+to the Insurance Regulatory Commission of Sri Lanka (IRCSL) upon request.
+1.57 Any changes to the insurer’s adopted approach in managing the participating fund shall be clearly
+documented, including the rationale for the change from previous approach. Such change should
+be governed via a pre-defined approval mechanism.
+1.58 Any changes in expense allocation methodology for participating fund shall be clearly documented,
+including a reclassification of expenses, the inclusion/removal of categories of expenses.
+1.59 At the end of every financial year, for the purpose of approval of the bonus rate declared for the
+year and setting up proposed future bonus rate assumptions, a detailed report shall be prepared by
+the insurer and submitted to the Committee, encompassing the following elements:
+a. Calculated asset shares including the underlying assumptions and data used for the calculation
+and projection of asset share;
+b. Evaluation of various parameters and alignment with bonus policy in setting proposed bonus
+rates.
+c. Recommended bonus rates including the financial impact of such rates on the liability and
+capital position;
+d. Any analysis performed to assess the supportability of bonus rates including any sensitivity or
+scenario analysis performed by the insurer;
+e. Reasonableness checks to ensure the accuracy, consistency, and completeness of the data
+used;
+f. Any qualifications or limitations relating to the data;
+g. An explanation of how the interests and fair treatment of policyholders, including PRE, have
+been addressed in the bonus recommendation;
+h. The report shall also include an assessment of the financial impact on the insurer arising from
+any actions taken to meet undue PRE; and
+i. Proposed future bonus assumption as used in calculation of insurance liabilities and bonus
+assumption used in solvency assessments, calculated as per Solvency Margin (Risk Based
+Capital) Rules, 2015.
+Compliance with the guidelines
+1.60 Insurers will immaterial proportion of participating business may consider a degree of proportionality
+with respect to compliance with these guidelines. However, the fundamental principles of
+policyholder fairness and equitable treatment should not be diluted. Accordingly, any relaxation in
+requirements shall be limited in nature and should not compromise the objective of ensuring a fair
+and transparent distribution of surplus.
+On the basis of proportionality, if the Company wishes to use a simplified approach, the Company
+is allowed to do so supported by appropriate documentation and justification to demonstrate
+compliance with this principle. Notwithstanding the above, even in such cases, insurers are required
+to ensure that there is an equitable distribution of the estate and surplus to the remaining
+participating policyholders.
+Guidelines on management of participating business Page 8 of 10
+1.61 Every insurer shall, at least once a financial year, submit a certification to the IRCSL confirming that
+the determination of bonus rates has been carried out in accordance with the bonus policy approved
+by the Board of Directors.
+1.62 IRCSL may require insurers to obtain an independent opinion from a qualified actuary on the asset
+share calculations and the methodology applied, including the reasonableness of the assumptions
+used (such as expenses charged and investment returns calculated), the validation of data, and the
+supportability of the bonus rates declared, at the cost of the insurer.
+Annexure A: Sample annual policyholder statement
+[Company Name] –Annual Bonus Statement
+Policyholder Name:
+Policy Number:
+Product:
+Statement Date:
+Policy commencement date:
+Policy term:
+Premium Payment term:
+Policy status:
+Nominee details:
+Summary of Policy Benefits
+Particular Amount (LKR)
+Annual Premium amount
+Basic Sum Assured1
+Accumulated Reversionary Bonuses2
+Total Death benefit as on date of statement
+Surrender value as on date of statement
+1. Basic sum assured refers to the original sum assured without any bonuses included
+2. Accumulated reversionary bonus shall include any bonus declared on or before the date of statement
+Bonus declaration for the year
+Particular* Detail
+Reversionary Bonus rate declared (%)
+Reversionary Bonus amount added this year (LKR)
+Reversionary Bonus amount added last year (LKR)
+Cash Bonus rate declared (%)
+Cash Bonus amount paid this year (LKR)
+Cash Bonus amount paid last year (LKR)
+Terminal Bonus declared (LKR)
+Special Bonus declared (LKR)
+*Please include details on other bonuses paid by the insurers.
+Important notes for policyholders
+Guidelines on management of participating business Page 9 of 10
+ Bonuses once declared are guaranteed and form part of your policy benefits.
+ Future bonuses are not guaranteed and will depend on the performance of the Participating Fund.
+Contact us
+For questions or clarification, please contact Actuarial Unit of IRCSL:
+📞 +94 11 2396184-9
+✉ actuarialunit@ircsl.gov.lk
+Guidelines on management of participating business Page 10 of 10

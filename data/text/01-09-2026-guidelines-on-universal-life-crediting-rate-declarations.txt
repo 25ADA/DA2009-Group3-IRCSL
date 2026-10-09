@@ -1,0 +1,269 @@
+Guidelines on Universal Life crediting rate declaration by long term insurers
+Introduction
+1.1 The proposed guidelines underlying this note are applicable to long-term insurers only (thereafter
+referred as insurers).
+1.2 At present, there are no established regulations, guidelines or a dedicated framework in Sri Lanka
+governing the oversight and management of universal life insurance business. This document sets
+out the proposed principles and governance framework that long-term insurers shall consider when
+formulating their Board-approved crediting rate policy as well as overall management of universal
+life business. This policy shall govern the determination of crediting rates declared at the valuation
+date. The principles set out in this document shall be applied consistently by the insurer while
+determining the future crediting rate assumptions required in insurance liability and solvency
+assessments as per Solvency Margin (Risk Based Capital) Rules 2015.
+Governance framework
+1.3 Every long-term insurer shall establish a clearly defined governance structure for the effective
+oversight and management of universal life business, recognizing the significant discretion involved
+in investment choices and crediting rate declarations.
+1.4 Given this discretion, insurers must uphold strong governance standards and ensure transparency
+in all aspects of sales, marketing, and policyholder communications.
+1.5 The governance framework under the Board approved crediting rate policy for universal life
+business shall include appropriate mechanisms to address conflicts of interest and to balance the
+interests of policyholders and shareholders.
+1.6 There should be a clear definition of the roles and responsibilities of all parties involved in the
+crediting rate determination process:
+a. Board of Directors: The Board of Directors retains ultimate accountability for the governance
+and oversight of universal life business including the final approval of the crediting rate policy
+and regular review of the crediting rate declaration.
+b. Senior management: Manages day-to-day operations and advises the Board on universal life
+matters including recommendation of the crediting rate and ensuring compliance with regulatory
+requirements and internal policy.
+c. Investment function: Oversight of the investment strategy for the universal life fund.
+d. Legal function: Ensures crediting rate provisions in contracts are clear, enforceable, and
+compliant.
+1.7 Insurers may assign the roles and responsibilities set out above to personnel other than those
+specified in paragraph 1.6, provided that each responsibility is clearly allocated to an appropriately
+qualified individual, function, or division. Insurers shall ensure that such person assigned to these
+responsibilities possess the requisite expertise, experience, and authority to discharge their duties
+effectively.
+Notwithstanding any such delegation, the Board of Directors shall retain ultimate accountability for
+the governance and oversight of the insurer’s universal life business. This includes, inter alia,
+approving the crediting rate policy and periodically reviewing crediting rate declarations to ensure
+that they are consistent with the approved policy and the fair treatment of policyholders.
+1.8 Insurers must establish and maintain a clear, robust, and documented crediting rate policy. This
+policy, approved by the Board of Directors, should be guided by the following principles:
+Guidelines on Universal Life crediting rate declaration Page 1 of 7
+a. Fairness and Equity: The crediting rate policy must be fair and equitable to all policyholders
+within the same product groups. The crediting rate should reflect the investment performance
+of the underlying asset portfolio, after accounting for all relevant charges and expenses. It
+should not be used to cross-subsidize other product lines or to unfairly benefit shareholders at
+the expense of policyholders.
+b. Sustainability: The crediting rate policy must be sustainable over the long term. It should be
+based on a sound investment strategy that can support the guaranteed minimum crediting rate
+, where applicable. while aiming to provide competitive non-guaranteed returns.
+c. Consistency: The crediting rate policy should be applied consistently over time. While the rate
+itself will fluctuate, the methodology for determining the rate should be consistent, and any
+changes to the methodology must be well-justified, documented, and approved by the Board.
+Grouping
+1.9 Insurers may establish appropriate groups of universal life policies for the purpose of crediting rate
+determination. Groups may be based on product features, guarantee levels, policy issue dates,
+policy terms, difference in underlying investment principles or other relevant risk characteristics.
+1.10 The grouping methodology shall ensure fairness and consistency across policyholders. No group
+of policyholders should be materially disadvantaged, and groupings should support risk pooling
+benefits only where it is appropriate and equitable to do so.
+1.11 Insurers shall manage each group of universal life policies independently. Insurers shall ensure that
+investment returns and guarantee costs are allocated fairly within each group and shall not permit
+any cross-subsidization between groups.
+Determination of crediting rate
+1.12 In determining crediting rates for universal life policies, insurers shall give due consideration to the
+investment returns and other relevant aspects of managing the universal life business, ensuring
+that the crediting rate reflects the overall experience of the universal life fund.
+1.13 The methodology to determine the crediting rate shall include a quantified assessment for
+investment returns, and each deduction made to the investment return to derive the declared
+crediting rate.
+1.14 The insurers shall clearly define the limits on deductions made to the investment return to derive
+the crediting rate as part of this policy.
+Investment return
+1.15 Insurers shall maintain a well-defined and documented policy for calculating investment earnings,
+which forms the basis for determining crediting rates under universal life policies.
+1.16 Insurers must maintain segregated assets for their universal life business in accordance with
+Direction 15 issued by the IRCSL. The investment returns shall be derived from the underlying
+assets held within the universal life fund.
+1.17 The calculation of investment returns shall be based on the Time-Weighted Rate of Return (TWRR),
+after allowing for all cashflows into and out of the universal life fund. The TWRR so determined shall
+form the basis for setting the crediting rate.
+1.18 The investment returns policy shall explicitly outline the methodologies used to calculate returns
+across all relevant asset classes held in the universal life fund, including but not limited to equities,
+preference shares, gold, property, fixed income instruments etc.
+Guidelines on Universal Life crediting rate declaration Page 2 of 7
+1.19 Insurers shall ensure that unrealized gains and losses are excluded from the calculation of
+investment returns used in determining the crediting rate, given that once declared, the crediting
+rate becomes a guaranteed benefit to the policyholder.
+1.20 The insurer shall consider the following in case smoothing is applied:
+a. the assumption shall reflect not only historical returns but also expected future short-term to
+medium-term investment returns.
+b. make an appropriate allowance for market risks that may affect investment returns. These may
+include, but are not limited to, credit spread risk, default risk, property risk, and currency risk
+(where assets are denominated in foreign currencies).
+1.21 If the insurer has multiple groups under the universal life fund, the insurer shall establish a
+mechanism to calculate investment returns separately for different groups of policies, where the
+underlying investment principles differ. This ensures that the crediting rate for each group
+appropriately reflects the corresponding investment performance.
+1.22 All assumptions and methodology underlying calculation and projection of investment returns
+should be clearly documented.
+Smoothing
+1.23 Insurer can apply discretion in applying smoothing to determine the crediting rate, with appropriate
+quantified assessment of the extent to which smoothing is applied. They shall ensure that practices
+are applied consistently without prejudice to any one generation of the policyholders against
+another. The mechanism shall ensure fairness across policyholder cohorts and reflect the fund's
+actual experience.
+1.24 If smoothing is applied, the insurer shall:
+a. ensure no undue advantage or disadvantage to any group of policyholders;
+b. maintain governance oversight and full documentation of smoothing-related decisions; and
+c. establish mechanisms to manage volatility in surplus from non-investment sources when these
+affect dividend or crediting rate declarations.
+Investment strategy
+1.25 Insurers must maintain a documented investment strategy for universal life funds. This should
+specify investment objectives, target asset allocations, risk appetite, and alignment with the long-
+term nature of policyholder liabilities.
+1.26 The strategy must support both the solvency of the universal life fund and that of the insurer as a
+whole under all reasonably foreseeable circumstances.
+1.27 The investment strategy should also be compliant with any statutory limits and regulatory
+requirements specified as part of Determination 1.
+Declaration and Review Process
+1.28 Insurers shall establish and document the frequency and process for declaring and reviewing
+crediting rates. This shall include the timing of rate declaration and communication to policyholders,
+which may occur at least annually or more frequently.
+Guidelines on Universal Life crediting rate declaration Page 3 of 7
+Policyholders’ Reasonable Expectations (PRE) and treating customers fairly
+1.29 Insurers shall ensure crediting rates are fair and consistent across different policyholder groups,
+and that they align with policyholders' reasonable expectations.
+1.30 Policyholders’ reasonable expectations concern the policy owners’ expectations on how the non-
+guaranteed benefits of their universal life policies are managed and paid.
+1.31 Long term insurers shall articulate sources which create PRE. PRE might be built up based on past
+declarations of crediting rate, past communication with the policyholders, marketing material, benefit
+illustrations presented at the time of sale of policy or at later stages in the lifetime of a policy, and
+prevailing industry practices.
+1.32 In managing PRE, the long-term insurer shall:
+a. Communicate clearly to policyholders the non-guaranteed nature of discretionary crediting rate
+and the circumstances under which such rates may be revised, reduced, or withdrawn; and
+b. Ensure that all communications, whether through direct channels, intermediaries, marketing
+materials, or historical practices — are accurate, not misleading, and do not give rise to an
+impression that communicated crediting rates are fixed or guaranteed throughout the life of the
+policy, in order to protect the integrity of policyholder expectations.
+1.33 The insurer shall ensure that the margin in the gross investment return and the crediting rate is fair
+and consistent with policyholders' reasonable expectations.
+1.34 The insurer shall also consider the guidelines on principles on fair treatment of customers issued
+by IRCSL from time to time while setting up crediting rates.
+Other considerations
+Regular Policyholder Statements
+1.35 Insurers must provide policyholders with regular statements that clearly demonstrate:
+a. the policy's current fund value
+b. policy fund value at end of previous statement date
+c. premiums received and premiums allocated into the fund during the period
+d. fee/charges deducted from the fund during the period
+e. the crediting rate applied during the period
+f. Key benefits payable at current statement date, including but not limited to, death benefit,
+surrender benefit, rider benefits.
+1.36 Such statements shall be provided to policyholders at least annually. Insurers may, at their
+discretion, issue these statements more frequently.
+1.37 The proposed format for the annual policyholder statements has been provided as part of Annexure
+A of this guideline.
+Calculation of insurance liabilities
+1.38 The future crediting rate assumption used to determine insurance liabilities shall be based on the
+crediting rate policy and included as part of the Annual or Quarterly Abstract submitted by insurers
+as per Determination 12,14 and 15, as the case may be.
+Guidelines on Universal Life crediting rate declaration Page 4 of 7
+1.39 The insurer shall evaluate the cost of guarantees using an appropriate and justifiable methodology.
+This cost shall be incorporated into the insurance liabilities for universal life business, calculated as
+per Solvency Margin (Risk Based Capital) Rules, 2015. The underlying assumptions,
+methodologies, and results shall be comprehensively documented as part of the Annual or Quarterly
+Abstract, as the case may be.
+Documentation
+1.40 The long-term insurer shall ensure that all key decisions, assessments, and actions relating to the
+declared crediting rate are properly documented. This documentation must demonstrate that the
+crediting rate determination process adheres to the principles and guidelines outlined in the Board
+approved crediting rate policy. Such documentation shall be made available to the Board of
+Directors and submitted to the Insurance Regulatory Commission of Sri Lanka (IRCSL) upon
+request.
+1.41 Any changes to the insurer’s adopted approach in managing the universal life business shall be
+clearly documented, including the rationale for the change from previous approach. Such change
+should be governed via a pre-defined approval mechanism.
+1.42 At end of every financial year, for the purposes of approval of crediting rate declared for the year, a
+detailed report shall be prepared by the insurer and submitted to the Board of Directors,
+encompassing the following elements:
+a. Investment Earnings: Annual calculation, including breakdown by policy groups.
+b. Crediting Rate Recommendation: Proposed rates (including minimum guarantee), with
+supporting rationale.
+c. Financial Impact: Assessment on liabilities and capital adequacy. Insurer may consider
+performing sensitivity and scenario analysis prior to recommendation of the crediting rate.
+d. Policyholder Fairness: Explanation of how PRE and fairness principles were addressed.
+e. Undue PRE Impact: Impact analysis of measures taken to meet undue PRE on the insurer's
+financial position.
+f. Monitoring and Review: Findings of the regular review of the effectiveness of the crediting rate
+framework.
+g. The insurer shall also consider and document any other aspect related to the management of
+universal life business while declaring the crediting rate.
+h. A policy-by-policy analysis shall be carried out for all policies maturing during the preceding
+year, comparing the gross investment return earned with the actual return realized by
+policyholders after deduction of all applicable charges, excluding cost of insurance charge. This
+analysis shall be used to assess the fairness of policyholder returns, identify any groups of
+policies that may have been disadvantaged, and ensure continued alignment of the crediting
+rate policy with policyholder reasonable expectations.
+i. For companies declared crediting rates more frequently than annual declaration, the
+requirement is to ensure that the report is produced at least annually.
+Disclosure
+1.43 Every insurer shall, at a minimum, disclose the following information on its website at minimum on
+an annual basis:
+Guidelines on Universal Life crediting rate declaration Page 5 of 7
+a. The insurer’s crediting rate policy, presented in a manner that is understandable to
+policyholders. The disclosure shall, at a minimum, set out the key factors influencing the
+crediting rate.
+b. The current and historical realized investment earnings, presented separately for each group of
+policies. Such a disclosure shall cover at least the preceding ten (10) years, if applicable.
+c. The current and historical declared crediting rates, presented separately for each group of
+policies. Such disclosure shall cover at least the preceding ten (10) years, if applicable.
+Compliance with the guidelines
+1.44 Every insurer shall while declaring the crediting rate to the policyholders, submit a certification to
+the IRCSL confirming that the determination of crediting rates has been carried out in accordance
+with the crediting rate policy approved by the Board of Directors.
+Annexure A: Sample annual policyholder statement
+[Company Name] – Annual Statement
+Policyholder Name:
+Policy Number:
+Product:
+Statement Period:
+Policy commencement date:
+Policy term:
+Premium Payment term:
+Policy status:
+Nominee details:
+Summary of Policy Benefits
+Particular Amount (LKR)
+Annual premium amount
+Basic Sum Assured1
+Unit fund value at the start of the period2
+Premiums paid during the period
+Premiums allocated during the period
+Fund management charge deducted during the
+period
+Mortality charges deducted during the period
+Any other charges deducted during the period
+Dividend credited to the fund during the period
+Fund value at the end of the period
+1. Basic sum assured refers to the guaranteed sum assured offered
+2. Start of the period shall be the end date of previous statement shared with the policyholder. The
+Statement period shall not be greater than one year.
+Details of benefit payable
+Particular Amount (LKR)
+Guidelines on Universal Life crediting rate declaration Page 6 of 7
+Death Benefit
+Surrender benefit
+Any other benefit payable, such as rider benefit
+Crediting rate declaration
+Particular Detail
+Crediting rate declared (%)
+Investment yield during the period (%)
+Interim crediting rate guaranteed for next year (%)
+Historic crediting rate declared in last year (%)
+Important notes for policyholders
+• The crediting rate is not guaranteed and may vary depending on the performance of the underlying
+fund and other factors.
+• The historical crediting rate should not be taken as an indicator of future crediting rate.
+• Early surrenders may result in lower benefits due to charges and market conditions.
+• [Placeholder for any other note that the Company wants to include relevant from PRE / product
+specification perspective such as reviewability of charges]
+Contact us
+For questions or clarification, please contact Actuarial Unit of IRCSL:
+📞 +94 11 2396184-9
+✉ actuarialunit@ircsl.gov.lk
+Guidelines on Universal Life crediting rate declaration Page 7 of 7

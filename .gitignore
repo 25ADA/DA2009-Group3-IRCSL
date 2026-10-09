@@ -1,0 +1,8 @@
+# downloaded PDFs (public IRCSL documents, can be downloaded again with the Phase 4 notebook)
+data/pdfs/
+*.part
+
+# system and Jupyter files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
