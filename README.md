@@ -17,10 +17,10 @@ A PDF copy of each notebook (with all outputs) is in the same folder.
 
 ## Open in Google Colab
 
-- [Phase 1 in Colab](https://colab.research.google.com/github/DA2009/DA2009-Group3-IRCSL/blob/main/Phase1_Static_Pages_Vathsala.ipynb)
-- [Phase 2 in Colab](https://colab.research.google.com/github/DA2009/DA2009-Group3-IRCSL/blob/main/Phase2_Insurance_Companies_Poojani.ipynb)
-- [Phase 3 in Colab](https://colab.research.google.com/github/DA2009/DA2009-Group3-IRCSL/blob/main/Phase3_Intermediaries_Siva.ipynb)
-- [Phase 4 in Colab](https://colab.research.google.com/github/DA2009/DA2009-Group3-IRCSL/blob/main/Phase4_Document_Engine_Athif.ipynb)
+- [Phase 1 in Colab](https://colab.research.google.com/github/25ADA/DA2009-Group3-IRCSL/blob/main/Phase1_Static_Pages_Vathsala.ipynb)
+- [Phase 2 in Colab](https://colab.research.google.com/github/25ADA/DA2009-Group3-IRCSL/blob/main/Phase2_Insurance_Companies_Poojani.ipynb)
+- [Phase 3 in Colab](https://colab.research.google.com/github/25ADA/DA2009-Group3-IRCSL/blob/main/Phase3_Intermediaries_Siva.ipynb)
+- [Phase 4 in Colab](https://colab.research.google.com/github/25ADA/DA2009-Group3-IRCSL/blob/main/Phase4_Document_Engine_Athif.ipynb)
 
 The notebooks are saved with their outputs, so they can be read without running them. Please do not run all of them again many times, because every run sends requests to the IRCSL website.
 
