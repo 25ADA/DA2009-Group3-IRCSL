@@ -56,7 +56,7 @@ The downloaded PDF files are not uploaded to this repository. They are public IR
 - We only used public pages. We did not log in or bypass anything.
 - We only took what we needed, for example 10 of the 111 PDFs.
 - Every row keeps `source_url` and `scraped_at`, so the source is always credited.
-- The data is only used for this assignment. This is why the repository is private and only shared with the group members and our lecturer.
+- The data is only used for this assignment. All of it was taken from public pages of ircsl.gov.lk, and every row keeps its source URL.
 
 ## Libraries used
 
